@@ -36,8 +36,6 @@ It is designed with modularity in mind, making it easy to extend, improve, or ad
 
 ## Architecture
 
-Architecture.png
-
 - **Audio Amplification:** Enhances speech signals for better recognition
 - **STT Module:** Converts spoken language to text
 - **Translation Engine:** Translates text between supported languages
