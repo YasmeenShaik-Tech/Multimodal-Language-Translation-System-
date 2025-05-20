@@ -36,6 +36,7 @@ It is designed with modularity in mind, making it easy to extend, improve, or ad
 
 ## Architecture
 
+https://github.com/YasmeenShaik-Tech/Multimodal-Language-Translation-System-/blob/f59320dd3ea7dd6e6856bb4792abceaa757f3d00/Screenshot_20250520-092952~2.png
 
 - **Audio Amplification:** Enhances speech signals for better recognition
 - **STT Module:** Converts spoken language to text
