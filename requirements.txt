@@ -1,0 +1,15 @@
+torch>=1.13.0
+transformers>=4.30.0
+torchaudio>=0.13.0
+sentencepiece>=0.1.96
+openai-whisper>=20231117
+tts==0.17.3
+langdetect>=1.0.9
+deep-translator>=1.11.4
+gradio>=4.0
+numpy>=1.23.5
+soundfile>=0.12.1
+pydub>=0.25.1
+scipy>=1.11.4
+librosa>=0.10.1
+faster-whisper==0.10.0
