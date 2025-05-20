@@ -36,43 +36,6 @@ It is designed with modularity in mind, making it easy to extend, improve, or ad
 
 ## Architecture
 
-+------------------------------+
-|        User Input           |
-|   (Text or Speech Input)    |
-+------------------------------+
-             |
-             v
-+------------------------------+
-|          Is Audio?          |
-+------------------------------+
-       /           \
-      v             v
-+-----------------+   +----------------------+
-|   ASR Module    |  |      Use Text         |
-| (Speech-to-Text)|  | (Direct Text Input)   |
-+-----------------+   +----------------------+
-       \             /
-        v           v
-+------------------------------+
-|     Translation Module       |
-| (Translates to Target Lang)  |
-+------------------------------+
-             |
-             v
-+------------------------------+
-|       Translated Text        |
-+------------------------------+
-             |
-             v
-+------------------------------+
-|         TTS Module           |
-| (Text-to-Speech Conversion)  |
-+------------------------------+
-             |
-             v
-+------------------------------+
-|    Final Speech Output       |
-+------------------------------+
 
 - **Audio Amplification:** Enhances speech signals for better recognition
 - **STT Module:** Converts spoken language to text
