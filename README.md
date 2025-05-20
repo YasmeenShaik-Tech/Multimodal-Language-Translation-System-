@@ -13,8 +13,6 @@ A comprehensive Multimodal Translation System designed to handle various transla
 - [Project Structure](#project-structure)
 - [Demo](#demo)
 - [Future Work](#future-work)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Overview
 
